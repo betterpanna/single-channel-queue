@@ -1,6 +1,6 @@
 # single-channel-queue
 assignment
-**Note:This is an implementation of Single Channel Queue Simulation Using python Language.
+*Note:This is an implementation of Single Channel Queue Simulation Using python Language.
 single channel queue simulation has very important for bank service/ticket counter etc process.
 This can be used for different purposes where we can see a single channel queue property.
 
@@ -26,7 +26,7 @@ The average
 number of customer waiting, the average waiting time of a customer should be your statistical estimators for
 examining the true characteristics of the system.
 
-###then we create dataform like that,to see that please  click [here] 
+#Then we create dataform like that,to see that please  click [here] 
 (https://user-images.githubusercontent.com/43786706/112715693-0dde8b00-8f0c-11eb-94cd-89441222a960.png)
 
 
