@@ -3,6 +3,9 @@ assignment
 **Note:This is an implementation of Single Channel Queue Simulation Using python Language.
 single channel queue simulation has very important for bank service/ticket counter etc process.
 This can be used for different purposes where we can see a single channel queue property.**
+**Update 03/20/2021:*We used a new Poisson distribution  & exponentially distribution value for calculate interarrival times & Service times.\
+**Update 03/21/2021:**
+
 
 ###Assumptions
 
@@ -40,6 +43,12 @@ service time=exponential distribuation value.
 ##then we calculate the time service begain and put them in table
 ![image](https://user-images.githubusercontent.com/43786706/112716217-3c119a00-8f0f-11eb-9820-9e6866093fa9.png)
 
+If there are any technical questions after the README, FAQ, and past/current issues have been read, please  contact:
+* panna.ganguly.27@gmail.com
+* Farjanajesin9@gmail.com
+* Tanzimnur5@gmail.com
+* Isratjahanelva01@gmail.com
+* sohagchakmamonipciu@gmail.com
 
 
 ###then we use formula for calculate  "waiting_time_in_queue","Time service end","Time customer spend in system "is
