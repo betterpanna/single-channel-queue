@@ -41,7 +41,12 @@ arrival time=interarrival time+previous arrival time,
 service time=exponential distribuation value.
 
 ##then we calculate the time service begain and put them in table
-![image](https://user-images.githubusercontent.com/43786706/112716217-3c119a00-8f0f-11eb-9820-9e6866093fa9.png)
+
+For a detailed description of the methodology behind single channel queue and the associated dataset please click [here]
+(https://user-images.githubusercontent.com/43786706/112716217-3c119a00-8f0f-11eb-9820-9e6866093fa9.png)
+If you are a researcher or devloper and you would like access to the **single channel queue** on your data or existing data, please reach out to panna.ganguly.27@gmail.com or 
+Isratjahanelva01@gmail.com.Lets all work together to get a better soluation of this problem.
+Our respective teacher Muhtadir Shihab is to encourage our and contribution to this project.If you would like to discuss alternative licensing models, please reach out to us at panna.ganguly.27@gmail.com and sohagchakmamonipciu@gmail.com or Tanzimnur5@gmail.com 
 
 If there are any technical questions after the README, FAQ, and past/current issues have been read, please  contact:
 * panna.ganguly.27@gmail.com
