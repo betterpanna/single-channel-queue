@@ -49,6 +49,36 @@ If there are any technical questions after the README, FAQ, and past/current iss
 * Tanzimnur5@gmail.com
 * Isratjahanelva01@gmail.com
 * sohagchakmamonipciu@gmail.com
+## Table of Contents
+1. [Requirements](#requirements) to install on your system
+2. How to [generate single channel queue dataset]
+3. Steps for [calculating,& evaluation ] of single channel queue coloumns "Interarrival time","arrival time""time service end"
+4. Steps for [waiting time of queue]of single channel queue problem
+5. Steps for [time customer spend in system]of single channel queue problem
+6. st
+7. [Results](#results)
+
+
+
+
+## Requirements
+
+The main requirements are listed below:
+
+* Python 3.6
+* Numpy
+* Scikit-Learn
+* Matplotlib
+Additional requirements to generate dataset:
+* PyDicom
+* Pandas
+* Jupyter
+## Results
+These are the final results for the COVIDNet models.
+at last we import tabulate function to make our table looking good and the table is:
+![image](https://user-images.githubusercontent.com/43786706/112716120-9c540c00-8f0e-11eb-94a9-5e32f558bec4.png)
+![image](https://user-images.githubusercontent.com/43786706/112716128-aa099180-8f0e-11eb-9573-778deb4faf34.png)
+That's all.
 
 
 ###then we use formula for calculate  "waiting_time_in_queue","Time service end","Time customer spend in system "is
@@ -62,9 +92,7 @@ If there are any technical questions after the README, FAQ, and past/current iss
 
 we know the formula for ideal time of server =  arrival time of customer> previous customer service end time  then print(arrival time) else:  (previous customer end time).
 we try ,but we dont implement this formula
-at last we import tabulate function to make our table looking good and the table is:
-![image](https://user-images.githubusercontent.com/43786706/112716120-9c540c00-8f0e-11eb-94a9-5e32f558bec4.png)
-![image](https://user-images.githubusercontent.com/43786706/112716128-aa099180-8f0e-11eb-9573-778deb4faf34.png)
-That's all.
+
+
 
 
