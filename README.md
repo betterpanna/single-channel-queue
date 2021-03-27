@@ -3,17 +3,17 @@ assignment
 **Note:This is an implementation of Single Channel Queue Simulation Using python Language.
 single channel queue simulation has very important for bank service/ticket counter etc process.
 This can be used for different purposes where we can see a single channel queue property.**
-**Update 03/20/2021:*We used a new Poisson distribution  & exponentially distribution value for calculate interarrival times & Service times.\
+**Update 03/20/2021:**We used a new Poisson distribution  & exponentially distribution value for calculate interarrival times & Service times.\
 **Update 03/21/2021:**we put the value of interarrival time,arrival time,service time.\
 **Update 03/24/2021:**we  calculate the time service begain and put them in table.\
 **Update 03/25/2021:** we  calculate the waiting time of queue & also calculate time customer spend in system.\
 **Update 03/26/2021:** we design the table to using the tabulate function.\
 we know the formula for ideal time of server =  arrival time of customer> previous customer service end time  then print(arrival time) else:  (previous customer end time).
-we try ,but we dont implement this formula
+we try ,but we dont implement this formula.
 
 
 
-###Assumptions
+#Assumptions
 
 Only one checkout counter.
 Customers arrive at this checkout counter at random from 1 to 8 minutes apart. Each possible value of interarrival time has the Poisson distribution probability of occurrence
@@ -25,11 +25,8 @@ The average
 number of customer waiting, the average waiting time of a customer should be your statistical estimators for
 examining the true characteristics of the system.
 
-###then we create dataform like that,
-
-
-![image](https://user-images.githubusercontent.com/43786706/112715693-0dde8b00-8f0c-11eb-94cd-89441222a960.png)
-
+###then we create dataform like that,to see that please  click [here] 
+(https://user-images.githubusercontent.com/43786706/112715693-0dde8b00-8f0c-11eb-94cd-89441222a960.png)
 
 
 For a detailed description of the methodology behind single channel queue and the associated dataset please click [here]
