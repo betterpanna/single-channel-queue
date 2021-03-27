@@ -3,7 +3,8 @@ assignment
 **Note:This is an implementation of Single Channel Queue Simulation Using python Language.
 single channel queue simulation has very important for bank service/ticket counter etc process.
 This can be used for different purposes where we can see a single channel queue property.
-**Update 03/20/2021:**We used a new Poisson distribution  & exponentially distribution value for calculate interarrival times & Service times.\
+
+**Update 03/20/2021:**We created a new Poisson distribution  & exponentially distribution value for calculate interarrival times & Service times.\
 **Update 03/21/2021:**we put the value of interarrival time,arrival time,service time.\
 **Update 03/24/2021:**we  calculate the time service begain and put them in table.\
 **Update 03/25/2021:** we  calculate the waiting time of queue & also calculate time customer spend in system.\
