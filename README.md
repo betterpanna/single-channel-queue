@@ -1,10 +1,9 @@
-### single-channel-queue
-##assignment
+# single-channel-queue
+assignment
+**Note:This is an implementation of Single Channel Queue Simulation Using python Language.
+single channel queue simulation has very important for bank service/ticket counter etc process.**
 
-This is an implementation of Single Channel Queue Simulation Using python Language.
-
-
-This can be used for different purposes where we can see a single channel queue property..
+This can be used for different purposes where we can see a single channel queue property.
 
 ###Assumptions
 
