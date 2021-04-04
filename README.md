@@ -69,7 +69,7 @@ Additional requirements to generate dataset:
 * Pandas
 * Jupyter
 ## Results
-These are the final results for the COVIDNet models.
+These are the final results for the single channel queues models.
 at last we import tabulate function to make our table looking good and the table is:
 ![image](https://user-images.githubusercontent.com/43786706/112716120-9c540c00-8f0e-11eb-94a9-5e32f558bec4.png)
 ![image](https://user-images.githubusercontent.com/43786706/112716128-aa099180-8f0e-11eb-9573-778deb4faf34.png)
